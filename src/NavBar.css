@@ -1,0 +1,15 @@
+
+.nav-container {
+	display: flex;
+	justify-content: space-around; /* Spread out the links */
+	align-items: center; /* Vertically center the links */
+	padding: 10px;
+	background-color: #333;
+	color: white;
+  }
+  
+  .nav-link {
+	color: white;
+	text-decoration: none;
+  }
+  
